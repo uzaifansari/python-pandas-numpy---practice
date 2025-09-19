@@ -1,0 +1,9 @@
+OrderID,CustomerName,Product,Category,Quantity,PricePerUnit,OrderDate,City,TotalAmount
+101,Alice,T-Shirt,Clothing,2,500,01-09-2025,Delhi,1000
+102,Bob,Shoes,Footwear,1,2000,02-09-2025,Mumbai,2000
+103,Charlie,Trousers,Clothing,3,1200,02-09-2025,Delhi,3600
+104,David,T-Shirt,Clothing,5,500,03-09-2025,Bangalore,2500
+105,Eva,Shoes,Footwear,2,2200,03-09-2025,Chennai,4400
+106,Frank,Hat,Accessories,4,300,04-09-2025,Mumbai,1200
+107,Grace,T-Shirt,Clothing,1,550,05-09-2025,Delhi,550
+108,Helen,Trousers,Clothing,2,1100,05-09-2025,Chennai,2200
